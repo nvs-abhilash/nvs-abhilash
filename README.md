@@ -1,35 +1,28 @@
-<h1 align="center">Hi 👋, I'm NVS Abhilash</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+# Hi 👋, I'm NVS Abhilash
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nvs-abhilash&label=Profile%20views&color=0e75b6&style=flat" alt="nvs-abhilash" /> </p>
+I'm a Machine Learning Engineer at Amazon One Research, specializing in deep learning, metric learning, and model optimization. I'm also an open-source contributor and help organize community events like BangPypers and PyData meetups.
 
-- 🔭 I’m currently working as a **Machine Learning Engineer** at **Amazon One Research**
+## 📝 Blog Posts
+- [Tutorial: How to scale and rotate contours in OpenCV](https://nvsabhilash.me/2019/06/29/Scaling-and-Rotating-contours.html)
 
-- 🌱 I’m currently learning **CUDA, AI System Design, and Rust**
+## 💻 Projects
+- Car damage estimation using Computer Vision
+- Algorithm for Graph based trust models in online Social Networks
+- Context Based Autocorrection
+- ERP System Hybrid Mobile App
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+## 🔬 Research
+- Real time Chest X-ray Pathology detection and localization framework with Convolutional Neural Networks and Ensembling
+- Duplicate Instance Identification In Multiview And Multiscale Systems
+- Accurate Damage Dimension Estimation in AI Driven Vehicle Inspection System
+- Online Partitioning of Large Graphs for Improving Scalability in Recommender Systems
 
-- 🤝 I’m looking for help with **Learning advanced Rust**
+## 📜 Patents
+- Dimension estimation using duplicate instance identification in a multiview and multiscale system
+- Artificial Intelligence Based Determination Of Damage To Physical Structures Via Video
+- System and method for artificial intelligence based determination of damage to physical structures
 
-- 👨‍💻 All of my projects are available at [https://github.com/nvs-abhilash?tab=repositories](https://github.com/nvs-abhilash?tab=repositories)
-
-- 📝 I write articles on [https://nvs-abhilash.github.io/posts/](https://nvs-abhilash.github.io/posts/)
-
-- 💬 Ask me about **Machine Learning, Computer Vision, Python**
-
-- 📫 How to reach me **nvs232@gmail.com**
-
-- ⚡ Fun fact **I love to play chess**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nvsabhilash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nvsabhilash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nvs-abhilash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nvs-abhilash" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4759795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4759795" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nvsabhilash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nvsabhilash" height="30" width="40" /></a>
-<a href="https://instagram.com/nvs-abhilash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvs-abhilash" height="30" width="40" /></a>
-<a href="https://medium.com/@nvsabhilash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nvsabhilash" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw..githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔗 Connect with me
+- [Twitter](https://x.com/nvs_abhilash)
+- [Github](https://github.com/nvs-abhilash)
+- [LinkedIn](https://www.linkedin.com/in/nvs-abhilash)
